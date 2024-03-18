@@ -1,0 +1,13 @@
+body {
+    background-image: url(../home14.webp);
+    background-position: center; 
+    background-size: cover;
+}
+
+body,
+html {
+    width: 100%;
+    height: 70%;
+    font-family: "Lato";
+    color: white;
+}
