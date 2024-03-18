@@ -6,7 +6,8 @@
   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css"
     href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-  <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet"
+    type="text/css">
 
   <link rel="stylesheet" href="../style/home.css">
 
@@ -24,9 +25,9 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="home.php">Crime Portal</a>
-    </div>
-    <div id="navbar" class="collapse navbar-collapse">
-      <ul class="nav navbar-nav">
+      </div>
+      <div id="navbar" class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
           <li class="active"><a href="home.php">Home</a></li>
         </ul>
         <ul class="nav navbar-nav navbar-right">
@@ -47,7 +48,7 @@
         <div class="content">
           <h1>Have a Complaint?</h1>
           <h3>Register Below <i class="fa fa-hand-o-down" aria-hidden="true"></i></h3>
-          
+
           <a href="registration.php" class="btn btn-default btn-lg" role="button" aria-pressed="true">Sign Up!</a>
         </div>
       </div>
